@@ -1,3 +1,2 @@
 # learning-cpp
-My first c++ programs :) 
-Trying to become a developer!
+My first c++ programs :) trying to become a developer!
